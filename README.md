@@ -99,7 +99,7 @@ These projects represent **different stages of my development journey — from p
 ### AI-Powered Scam Detection Platform
 
 <a href="https://github.com/khutejakhan/ScamShield-AI">
-  <img src="./assets/scamshield-ai.jpg" alt="ScamShield AI" width="100%"/>
+  <img src="scamshield-ai.jpg" alt="ScamShield AI" width="100%"/>
 </a>
 
 **ScamShield AI** is a full-stack web application designed to help users identify potentially fraudulent online content before interacting with it.
